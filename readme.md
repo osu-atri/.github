@@ -11,6 +11,13 @@ Hello! We are **osu! And TranslatIon**!
 - osu! 社区视频的搬运与翻译
 - osu! 中英翻译术语表维护
 
+## 联系方式
+
+你可以通过如下方式，与我们连接在一起：
+
+- 哔哩哔哩：[osu中文搬运](https://space.bilibili.com/1313510214)
+- QQ 群聊：**834048762**
+
 ## 贡献与加入组织
 
 很高兴了解到你的意愿！请看[这里](contributing.md)。
