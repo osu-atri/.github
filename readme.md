@@ -10,3 +10,7 @@ Hello! We are **osu! And TranslatIon**!
 
 - osu! 社区视频的搬运与翻译
 - osu! 中英翻译术语表维护
+
+## 贡献与加入组织
+
+很高兴了解到你的意愿！请看[这里](contributing.md)。
