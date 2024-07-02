@@ -20,4 +20,4 @@ Hello! We are **osu! And TranslatIon**!
 
 ## 贡献与加入组织
 
-很高兴了解到你的意愿！请看[这里](contributing.md)。
+很高兴了解到你的意愿！请看[这里](CONTRIBUTING.md)。
