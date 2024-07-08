@@ -1,6 +1,6 @@
 # osu!ATRI
 
-Hello! We are **osu! And TranslatIon**!
+Hello! We are **osu! Another TRanslatIon**!
 
 嗨！我们是一个小规模的 osu! 中文翻译团队。
 
