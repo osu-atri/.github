@@ -10,7 +10,9 @@
 
 - 捉虫挑错：术语表条目有问题？请务必第一时间告诉我们！或者复刻 (Fork) 你自己的分支，创建拉取请求，协助我们修正。
 - 新内容：在 osu! 社区发现了值得记录的术语？请开个 PR 吧，我们会很高兴看到你的内容！
-- 功能建议：我们的仓库使用可拓展性强的 [Material for MkDocs](https://squidfunk.github.io/mkdocs-material) 框架来部署网站，供各位网友更方便地浏览术语表。如果你发现了有适用于我们仓库的新功能，可以发一个[讨论贴](https://github.com/osu-atri/osu-dictionary/discussions/new?category=ideas)！
+- 功能建议：我们的仓库使用可拓展性强的 [Docusaurus](https://docusaurus.io) 框架来部署网站，供各位网友更方便地浏览术语表。如果你发现了有适用于我们仓库的新功能，可以发一个[讨论贴](https://github.com/osu-atri/osu-dictionary/discussions/new?category=ideas)！
+
+要了解更多信息，请看看更具体的[说明](https://github.com/osu-atri/osu-dictionary/blob/main/CONTRIBUTING.md)。
 
 ## 加入我们
 
